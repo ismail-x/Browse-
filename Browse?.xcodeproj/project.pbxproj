@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EC9C68252512560400562E41 /* Browse?.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Browse?.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC9C68252512560400562E41 /* BrowseIn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrowseIn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC9C68282512560400562E41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC9C682A2512560400562E41 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EC9C682C2512560400562E41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		EC9C68262512560400562E41 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EC9C68252512560400562E41 /* Browse?.app */,
+				EC9C68252512560400562E41 /* BrowseIn.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "Browse?";
 			productName = "Browse?";
-			productReference = EC9C68252512560400562E41 /* Browse?.app */;
+			productReference = EC9C68252512560400562E41 /* BrowseIn.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ismail..Browse-";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BrowseIn;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ismail..Browse-";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BrowseIn;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
